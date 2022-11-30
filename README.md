@@ -10,6 +10,7 @@ reference
   volume={9},
   pages={21121-21135}
 }
+
 @article{Feng2020DeepRL,
   title={Deep Reinforcement Learning Based Intelligent Reflecting Surface Optimization for MISO Communication Systems},
   author={Keming Feng and Qisheng Wang and Xiao Li and Chao-Kai Wen},
@@ -18,6 +19,7 @@ reference
   volume={9},
   pages={745-749}
 }
+
 @article{Huang2020ReconfigurableIS,
   title={Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning},
   author={Chongwen Huang and Ronghong Mo and Chau Yuen},
@@ -26,6 +28,7 @@ reference
   volume={38},
   pages={1839-1850}
 }
+
 @article{Cui2019SecureWC,
   title={Secure Wireless Communication via Intelligent Reflecting Surface},
   author={Miao Cui and Guangchi Zhang and Rui Zhang},
