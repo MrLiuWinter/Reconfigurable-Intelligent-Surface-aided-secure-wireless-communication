@@ -1,6 +1,9 @@
 # Reconfigurable-Intelligent-Surface-aided-secure-wireless-communication
 ddpg with RIS in secure wireless communication 
 
+For more information, please refer to the original author's project library 
+https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning
+
 reference
 > @article{Peng2022DeepRL,
   title={Deep Reinforcement Learning for RIS-Aided Multiuser Full-Duplex Secure Communications With Hardware Impairments},
